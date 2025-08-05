@@ -1,7 +1,6 @@
 # Introduction-to-Engineering-Mousetrap-Car
 ## Overview
-This project involved designing and building a mousetrap-powered car for the Introduction to Engineering course. The car harnesses the mechanical energy stored in a mousetrap spring to propel itself forward. The primary goal was to optimize both distance traveled and speed by experimenting with variables such as wheel size, axle design, and friction reduction. The design process was constrained by specific parameters and the use of a supplied mousetrap as the power source.
-
+This project involved designing and building a mousetrap-powered car for the Introduction to Engineering course. The car harnesses the mechanical energy stored in a mousetrap spring to propel itself forward. The primary goal was to optimize both distance traveled and speed by experimenting with variables such as wheel size, axle design, and friction reduction. The design process was constrained by specific parameters and the use of a supplied mousetrap as the power source. The final design successfully traveled 14 meters, demonstrating effective optimization of distance and speed.
 
 
 ## Contributions
