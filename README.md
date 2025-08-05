@@ -31,3 +31,7 @@ https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/m
 
 ## Videos
 https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/Mosuetrap%20Car%20Distance%20Test.MOV
+
+
+## Credits
+Liberty University Introduction to Engineering Class – Team of 4 students
