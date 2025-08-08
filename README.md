@@ -10,8 +10,8 @@ This project involved designing and building a mousetrap-powered car for the Int
 -Served as the team lead, coordinating efforts and guiding project development.
 
 ## Team Member Contributions
--Brock Ranney — Assisted with CAD design and testing.
--Job Summers and Daniel Porter — Assisted with assembly and testing.
+- Brock Ranney — Assisted with CAD design and testing.
+- Job Summers and Daniel Porter — Assisted with assembly and testing.
 
 ## What I Learned
 - Fundamentals of mechanical energy and energy conversion.
