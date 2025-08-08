@@ -21,9 +21,9 @@ This project involved designing and building a mousetrap-powered car for the Int
 
 
 ## Project Photos
-https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/2024-11-21%20222346-3366414.HEIC
-https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/Image-1.jpg
-https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/SOLIDWORKS%20Drawing%20-%20Mousetrap%20Car.png
+- SOLIDWORKS Mousetrap Car Drawing: https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/SOLIDWORKS%20Drawing%20-%20Mousetrap%20Car.png
+- Final Design Mousetrap Car (1): https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/2024-11-21%20222346-3366414.HEIC
+- Final Design Mousetrap Car (2): https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/Image-1.jpg
 
 ## Videos
 https://github.com/Josiah-Mechy/Introduction-to-Engineering-Mousetrap-Car/blob/main/Mosuetrap%20Car%20Distance%20Test.MOV
